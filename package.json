@@ -1,0 +1,16 @@
+{
+  "name": "basicJsonExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express", "json", "jasenmichael", "boilerplate", "jason endpoint express"],
+  "author": "jasenmichael",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ip": "^1.1.5"
+  }
+}
